@@ -1,0 +1,32 @@
+.cdt-frontend-table {
+    margin-bottom: 20px;
+}
+
+.cdt-frontend-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cdt-frontend-table th, .cdt-frontend-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.cdt-frontend-table th {
+    background-color: #f2f2f2;
+}
+
+.cdt-svg-container {
+    position: relative;
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    background: #333;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+}
